@@ -1,0 +1,16 @@
+/* 10-import_colors.scss */
+/* Importing color variables from 10-colors.scss */
+@import '10-colors';
+
+/* Using imported color variables */
+.red {
+  color: $red;
+}
+
+.green {
+  color: $green;
+}
+
+.blue {
+  color: $blue;
+}

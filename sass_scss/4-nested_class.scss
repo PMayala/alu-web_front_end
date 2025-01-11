@@ -1,0 +1,10 @@
+/* 4-nested_class.scss */
+/* This file assigns text color #3D3D3D to all elements inside body and #FF0000 to elements with class .red inside body */
+
+body {
+  color: #3D3D3D;
+
+  .red {
+    color: #FF0000;
+  }
+}

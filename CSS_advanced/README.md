@@ -1,4 +1,4 @@
-# 0x02. Advanced CSS
+# Advanced CSS
 ![css](images/css.png)
 ## Resources
 **Read or watch**

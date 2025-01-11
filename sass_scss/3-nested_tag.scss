@@ -1,0 +1,11 @@
+/* 3-nested_tag.scss */
+/* This file assigns no margin or padding to body and a margin of 10px to p tags inside body */
+
+body {
+  margin: 0px;
+  padding: 0px;
+
+  p {
+    margin: 10px;
+  }
+}
